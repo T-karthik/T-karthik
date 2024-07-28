@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm karthik</h1>
+# Hey there! I'm <a href = "https://www.linkedin.com/in/tammana-karthik-994823171/">karthik Tammana</a>. Welcome to my GitHub👋
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkarthik&label=Profile%20views&color=0e75b6&style=flat" alt="tkarthik" /> </p>
